@@ -1,6 +1,16 @@
-# Thank-U--Next
+# Thank-U-Next - Automated Club Moderation Tool
 
-As a Juni Club Moderator, we have to swap between many accounts to check on the status of different clubs.
+## Introduction
 
-This program helps speed up that process by automatically signing in and out of the different clubs whenever the user presses enter in the terminal.
+Thank-U-Next is an automated tool designed for Juni Club Moderators. It simplifies the process of managing multiple club accounts by automating the login and logout procedures, making club moderation more efficient.
 
+## Prerequisites
+
+Before using Thank-U-Next, ensure you have the following prerequisites:
+
+1. **Python**: Ensure you have Python installed on your computer. If not, download it from the [official Python website](https://www.python.org/downloads/).
+
+2. **Required Python Packages**: Install the required Python packages by running this command in your terminal or command prompt:
+
+   ```bash
+   pip install selenium webdriver_manager
