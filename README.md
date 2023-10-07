@@ -17,12 +17,12 @@ Before using Thank-U-Next, ensure you have the following prerequisites:
 
 1. Club Account Information: Create a text file named accounts.txt with the account information you intend to use for club moderation. Use the following format:
 
-   ```bash
+   ```
    username1
    password1
    username2
    password2
-
+   ```
 Usage
 To use Thank-U-Next, follow these steps:
 
@@ -32,9 +32,9 @@ To use Thank-U-Next, follow these steps:
 
 **3. Run the Program:** Execute Thank-U-Next by running the following command:
 
-   ```bash
+   ```
    python thank_u_next.py
-
+   ```
 **4. Automated Login:** The program will automatically log in to each account, one by one, and navigate to the club moderation page.
 
 **5. Manual Interaction (Optional):** The program will pause after each login. If needed, you can manually interact with the website. Simply press Enter to proceed to the next account.
@@ -44,6 +44,7 @@ To use Thank-U-Next, follow these steps:
 **7. Completion:** Once the program has processed all accounts, it will display a completion message.
 
 **Notes**
+
 Ensure that you have a stable internet connection while running Thank-U-Next.
 
 Double-check that the accounts.txt file is correctly formatted, with each username and password pair on separate lines.
