@@ -35,3 +35,26 @@ To use Thank-U-Next, follow these steps:
    ```bash
    python thank_u_next.py
 
+**4. Automated Login:** The program will automatically log in to each account, one by one, and navigate to the club moderation page.
+
+**5. Manual Interaction (Optional):** The program will pause after each login. If needed, you can manually interact with the website. Simply press Enter to proceed to the next account.
+
+**6. Automated Logout:** After visiting each club, the program will automatically log out and proceed to the next account.
+
+**7. Completion:** Once the program has processed all accounts, it will display a completion message.
+
+**Notes**
+Ensure that you have a stable internet connection while running Thank-U-Next.
+
+Double-check that the accounts.txt file is correctly formatted, with each username and password pair on separate lines.
+
+Exercise caution when sharing or storing your accounts.txt file, as it contains sensitive information.
+
+
+**Disclaimer**
+
+Thank-U-Next is intended for personal use and should be used responsibly and in accordance with the terms of service of the platform it interacts with. It is not affiliated with or endorsed by Juni Learning or any other organization mentioned in this program.
+
+
+
+
